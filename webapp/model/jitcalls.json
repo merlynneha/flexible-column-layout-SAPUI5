@@ -673,7 +673,7 @@
 	}, {
 		"InternalCallNumber": 1000039,
 		"AlertIcon": "sap-icon://status-error",
-		"ShipToParty": "Skaboo",
+		"ShipToParty": "Skabooo",
 		"SequenceNumber": 5166,
 		"ExternalCallStatus": "Released for Production(RP01)",
 		"LifeCycleStatus": "In process",
